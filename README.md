@@ -2,6 +2,7 @@
 
 ## Live Link
  - https://mrpatblack7.github.io/CrystalsCollector-Game/
+ <img width="432" alt="thumbnail_pic" src="https://user-images.githubusercontent.com/45779399/61766270-dcf89b00-ada5-11e9-8477-4172b84606c3.png">
 
 ## Description
  In this game the computer will randomly select a number. It is the players goal to get to that number by clicking on crystals of varying values. If you get to the number without going over you win that round and if you go over you lose that round.
